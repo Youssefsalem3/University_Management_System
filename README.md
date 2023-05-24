@@ -67,6 +67,6 @@ The codes can be found within the folders and a demo for the GUI can be found he
 
 [Farah Safwat](https://linkedin.com/in/farah-safwat-42b77224a)
 
-[Nour Salah](https://(linkedin.com/in/nourhan-salah-95aa26203)
+[Nour Salah](https://linkedin.com/in/nourhan-salah-95aa26203)
 
 
