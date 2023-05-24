@@ -52,9 +52,11 @@ That's a quick overview about the project hope that you liked it :)
 The codes can be found within the folders and a demo for the GUI can be found here in this repo
 
 #Team Leader
+
 [Youssef Salem](https://linkedin.com/in/youssef-salem3)
 
 #Team members
+
 [Ammar Thabet](https://linkedin.com/in/ammar-thabett)
 
 [Mohamed Hany](https://linkedin.com/in/mohamed-hany-061655246)
