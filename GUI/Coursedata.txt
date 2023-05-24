@@ -1,0 +1,5 @@
+Archi A200 Omar 2 20 1 
+Linear L99 Youssef 10 30 0 
+Ethics E66 Dr.Mohamed 3 100 0 
+Math1 M77 bebo 5 100 1 
+Math2 M1000 Youssef 4 300 1 
