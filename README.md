@@ -7,7 +7,7 @@
 ## **1)Login Page**
 You can login using your email & password if you are student and if you are an admin you can login using your username & password
 
-![login](https://github.com/Youssefsalem3/University_Management_System/assets/101949937/bd677f68-215c-468f-b0b0-904e4fd6e190)
+![login](https://www.imgbly.com/ib/B8V2Hkm626.png)
 
 
 ## **2) Admin Page and it's functionalities**
@@ -27,7 +27,7 @@ Here is what you can do as an admin !
 
 7-See the statistics of each course (Included in the console only).
 
-![Adminpage](https://github.com/Youssefsalem3/University_Management_System/assets/101949937/3a8cde9e-137d-4aad-9323-46406c434ca3)
+![Adminpage](https://www.imgbly.com/ib/cBXS2ohKYf.png)
 
 
 ## **3) Student Page and it's functionalities**
@@ -45,7 +45,7 @@ Here is what you can do as a Student !
 
 6-Filter Courses.
 
-![Studentpage](https://github.com/Youssefsalem3/University_Management_System/assets/101949937/c8dd7278-4730-4f66-add2-98f4acfdab6c)
+![Studentpage](https://www.imgbly.com/ib/YptU9bcEXz.png)
 
 That's a quick overview about the project hope that you liked it :)
 
