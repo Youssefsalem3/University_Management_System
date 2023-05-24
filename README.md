@@ -51,11 +51,11 @@ That's a quick overview about the project hope that you liked it :)
 
 The codes can be found within the folders and a demo for the GUI can be found here in this repo
 
-#Team Leader
+# Team Leader
 
 [Youssef Salem](https://linkedin.com/in/youssef-salem3)
 
-#Team members
+# Team members
 
 [Ammar Thabet](https://linkedin.com/in/ammar-thabett)
 
